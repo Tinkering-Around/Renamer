@@ -23,3 +23,7 @@ Renamer is a versatile Python tool for analyzing and modifying files in the curr
 - For colored output, install the 'colorama' library using the following:
   ```bash
   pip install colorama
+
+### Usage
+- Run the script in the terminal.
+- Follow the prompts to analyze and modify files.
