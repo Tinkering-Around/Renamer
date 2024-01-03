@@ -1,8 +1,6 @@
-# Ranamer
+# Renamer 🚀
 
 Renamer is a Python program designed for analyzing and modifying files in a directory. It provides insights into the file types, counts, and allows renaming files within a selected category.
-
-## Renamer 🚀
 
 ### Overview
 
